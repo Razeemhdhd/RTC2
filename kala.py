@@ -6,6 +6,7 @@ import telebot
 import asyncio
 import random
 import string
+import certifi
 from pymongo import MongoClient
 from datetime import datetime, timedelta
 from telebot.apihelper import ApiTelegramException
